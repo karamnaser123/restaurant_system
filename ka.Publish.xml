@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Users\karam\Desktop\gg" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="css/StyleSheet2.css" publishTime="06/08/2022 01:47:42" />
+    <file relUrl="images/SA_Breakfast.png" publishTime="05/23/2022 00:39:42" />
+    <file relUrl="UserLogin.aspx" publishTime="06/16/2022 14:30:37" />
+    <file relUrl="Global.asax" publishTime="05/05/2022 22:52:38" />
+    <file relUrl="images/wingz.png" publishTime="05/23/2022 01:33:52" />
+    <file relUrl="images/table_icon.png" publishTime="05/05/2022 23:06:30" />
+    <file relUrl="admin.Master" publishTime="06/12/2022 12:13:20" />
+    <file relUrl="table_admin.aspx" publishTime="06/12/2022 12:56:52" />
+    <file relUrl="Menu.aspx" publishTime="06/12/2022 12:16:14" />
+    <file relUrl="bin/ka.pdb" publishTime="06/18/2022 13:07:23" />
+    <file relUrl="css/StyleSheet1.css" publishTime="06/19/2022 15:14:57" />
+    <file relUrl="images/menu.png" publishTime="05/25/2022 21:00:10" />
+    <file relUrl="images/Facebook.png" publishTime="06/08/2022 01:10:04" />
+    <file relUrl="images/burger.png" publishTime="05/23/2022 00:25:46" />
+    <file relUrl="images/big_mac.png" publishTime="04/10/2019 04:24:18" />
+    <file relUrl="css/StyleSheet_cashh.css" publishTime="06/08/2022 01:48:06" />
+    <file relUrl="Restaurant.Master" publishTime="06/12/2022 11:10:44" />
+    <file relUrl="ViewAllAvailableTimes.aspx" publishTime="06/15/2022 14:35:28" />
+    <file relUrl="bin/ka.dll" publishTime="06/18/2022 13:07:23" />
+    <file relUrl="css/StyleSheet6.css" publishTime="06/12/2022 11:45:18" />
+    <file relUrl="UserRegistration.aspx" publishTime="06/19/2022 14:56:15" />
+    <file relUrl="login_admin.aspx" publishTime="06/12/2022 11:30:02" />
+    <file relUrl="images/cappaccino.png" publishTime="05/23/2022 00:42:08" />
+    <file relUrl="images/zinger.png" publishTime="05/23/2022 00:38:30" />
+    <file relUrl="images/coca_cola.png" publishTime="05/23/2022 00:41:24" />
+    <file relUrl="ViewReservations.aspx" publishTime="06/15/2022 15:18:47" />
+    <file relUrl="images/calender_icon.png" publishTime="05/05/2022 23:06:30" />
+    <file relUrl="css/StyleSheet5.css" publishTime="06/19/2022 15:00:14" />
+    <file relUrl="users_admin.aspx" publishTime="06/12/2022 12:01:10" />
+    <file relUrl="Web.config" publishTime="06/19/2022 15:17:21" />
+    <file relUrl="Item.aspx" publishTime="06/19/2022 15:51:06" />
+    <file relUrl="menu_admin.aspx" publishTime="06/12/2022 11:47:52" />
+    <file relUrl="images/IceCream.png" publishTime="05/23/2022 01:45:40" />
+    <file relUrl="ViewOrder.aspx" publishTime="06/15/2022 15:40:49" />
+    <file relUrl="Registar_admin.aspx" publishTime="06/19/2022 15:59:27" />
+    <file relUrl="Contact.aspx" publishTime="06/12/2022 12:24:50" />
+    <file relUrl="Reservation.aspx" publishTime="06/15/2022 01:41:38" />
+  </publishProfile>
+</publishData>

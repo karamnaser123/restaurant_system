@@ -1,0 +1,43 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="admin.master.cs" Inherits="ka.admin" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="css/StyleSheet1.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+    
+     <div class="topnav">
+
+         <a  class="zoom button" href="menu_admin.aspx">قائمة الطعام للادمن</a> <a class="zoom  button" href="users_admin.aspx">قائمة المستخدمين للادمن</a> 
+         <a  class="zoom button" href="table_admin.aspx">قائمة الطاولات للادمن</a>
+         <a class="zoom  button" href="Registar_admin.aspx">إنشاء حساب جديد للادمن</a> 
+         <a class="zoom  button" href="menu.aspx">اذهب إلى قائمة الطعام</a> 
+       
+
+        <div class="login-container">
+            <table>
+                <tr>
+                 
+                 
+                 
+                       
+                     
+                    
+                </tr>
+            </table>
+        </div>
+    </div>
+ 
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

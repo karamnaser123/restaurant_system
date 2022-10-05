@@ -1,0 +1,58 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Restaurant.master.cs" Inherits="ka.Restaurant" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link href="css/StyleSheet1.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+</head>
+<body>
+
+    <form id="form1" runat="server">
+     <div class="topnav">
+
+         <a  class="zoom button" href="Menu.aspx">قائمة الطعام</a> <a class="zoom  button" href="Reservation.aspx">حجز موعد</a> 
+        <a  class="zoom  button" href="Contact.aspx">التواصل</a>
+
+        <div class="login-container">
+            <table>
+                <tr>
+                    <td>
+                        <asp:Label ID="lblWelcome" runat="server"  Font-Size=X-Large  ForeColor="#7FFD4" ></asp:Label>
+                    </td>
+                    <td class="zoom button ">
+                        <asp:HyperLink ID="hlRegister" NavigateUrl="~/UserRegistration.aspx" Height="16px" runat="server"></asp:HyperLink>
+                    </td>
+                    <td  class="zoom  button" >
+                    
+                        <asp:HyperLink ID="hlLogin" NavigateUrl="~/UserLogin.aspx" Height="16px" runat="server"></asp:HyperLink>
+                        </td>
+                        <td  class="zoom button" >
+
+                        <asp:HyperLink ID="hlLogin2" NavigateUrl="~/login_admin.aspx" Height="16px" runat="server"></asp:HyperLink>
+                        </td>
+                        <td class="zoom button">
+                        <asp:LinkButton ID="lbtnLogout" Height="16px" runat="server" 
+                            onclick="lbtnLogout_Click"></asp:LinkButton>
+                            </td>
+                        
+                    
+                </tr>
+            </table>
+        </div>
+    </div>
+    <div>
+    
+
+
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>
